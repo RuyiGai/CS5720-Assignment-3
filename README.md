@@ -17,9 +17,6 @@ Assignment 3.ipynb
 README.md
 ```
 
-## Dataset
-https://download.pytorch.org/tutorial/hymenoptera_data.zip?utm_source=chatgpt.com
-
 
 ### `Home Assignment 3.docx`
 
